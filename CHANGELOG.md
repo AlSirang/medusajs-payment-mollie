@@ -1,5 +1,16 @@
 # medusajs-payment-mollie
 
+## 0.1.0
+
+### Minor Changes
+
+- 7b0e016: Refactor Mollie payment provider and webhook handling
+
+  - Renamed `id` to `providerId` in `MollieOptions` for consistency with other payment providers.
+  - Updated error messages to provide more clarity about missing options (`apiKey`, `providerId`).
+  - Refactored `MollieProviderService` constructor to use `MollieOptions` type.
+  - Updated `constructMollieWebhookUrl` to include both `providerId` and `identifier` for constructing the correct webhook URL.
+
 ## 0.0.4
 
 ### Patch Changes
