@@ -1,5 +1,11 @@
 # medusajs-payment-mollie
 
+## 0.1.1
+
+### Patch Changes
+
+- f99f88a: update Readme.md
+
 ## 0.1.0
 
 ### Minor Changes
