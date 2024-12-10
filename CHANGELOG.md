@@ -1,5 +1,11 @@
 # medusajs-payment-mollie
 
+## 0.1.2
+
+### Patch Changes
+
+- a2ab553: update readme
+
 ## 0.1.1
 
 ### Patch Changes
