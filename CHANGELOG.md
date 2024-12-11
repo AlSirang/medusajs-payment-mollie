@@ -1,5 +1,11 @@
 # medusajs-payment-mollie
 
+## 0.1.4
+
+### Patch Changes
+
+- d950fca: update package.json
+
 ## 0.1.3
 
 ### Patch Changes
