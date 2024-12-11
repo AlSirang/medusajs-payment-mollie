@@ -1,5 +1,11 @@
 # medusajs-payment-mollie
 
+## 0.2.0
+
+### Minor Changes
+
+- 0672f0f: fix: update payment status check for cancelPayment
+
 ## 0.1.4
 
 ### Patch Changes

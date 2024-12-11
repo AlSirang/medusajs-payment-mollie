@@ -1,6 +1,6 @@
 {
   "name": "medusajs-payment-mollie",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Mollie payment provider for Medusa",
   "main": "dist/index.js",
   "repository": {
