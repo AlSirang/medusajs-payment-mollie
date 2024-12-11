@@ -1,5 +1,11 @@
 # medusajs-payment-mollie
 
+## 0.1.3
+
+### Patch Changes
+
+- ca09361: chore: add git repo url
+
 ## 0.1.2
 
 ### Patch Changes
