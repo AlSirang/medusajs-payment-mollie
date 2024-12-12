@@ -75,6 +75,7 @@ class MollieBase extends AbstractPaymentProvider<MollieOptions> {
     /// init mollieClient
     this.mollieClient = MollieClientProvider({
       apiKey: options.apiKey,
+      versionStrings: "MedusaJS/1.0.0 BashirUddin/" + process.env.npm_package_version, // todo ideally determine Medusa version dynamically
     });
   }
 
