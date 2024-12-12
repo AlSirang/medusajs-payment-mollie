@@ -1,5 +1,11 @@
 # medusajs-payment-mollie
 
+## 0.2.1
+
+### Patch Changes
+
+- bb69e37: Added User Agent information
+
 ## 0.2.0
 
 ### Minor Changes
